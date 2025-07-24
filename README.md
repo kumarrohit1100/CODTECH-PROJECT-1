@@ -2,7 +2,7 @@
 
 A scalable collaborative filtering recommender system for Amazon Electronics product ratings using Apache Spark.
 
-## 📁 Repository Name
+## 📁 CODTECH-PROJECT-1
 **BigData**
 
 ## 🛠 Tech Stack
